@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("../images/blue-sky-and-clouds-watercolor-texture-background.jpg")
+    no-repeat fixed center center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 25px;
+  font-size: 20px;
+}
+
+.container {
+  padding: 0 20px;
+}
+
+.titulo {
+  text-align: center;
+  color: red;
+}
+
+.roda-pe {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  
+}
+
+#titulo-1 {
+  color: #273746;
+}
+
+.paragrafo {
+  font-size: 20px;
+}
+
+.table,
+td,
+th,
+tr {
+  width: 500px;
+  border: 1px solid #273746;
+}
+td {
+  text-align: center;
+}
+img {
+  width: 70px;
+  height: 70px;
+}
+
+.fundo-branco {
+  background-color: rgba(255, 255, 255, 0.843);
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
