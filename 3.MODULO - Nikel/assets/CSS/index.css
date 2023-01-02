@@ -1,0 +1,23 @@
+#login {
+    background: linear-gradient(120deg, #4c79d3 44.9%, #fff 45%) no-repeat fixed;
+  }
+  
+  #text-login {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .coins {
+    position: absolute;
+    bottom: 100px;
+  }
+  
+  .btn-login {
+    width: 50%;
+    margin: 0 25%;
+  }
+  
+  .btn-cancel {
+    border-radius: 10px;
+  }
