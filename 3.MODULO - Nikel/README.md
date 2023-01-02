@@ -2,17 +2,17 @@
 
 
 <p align="center">
-  <img src="https://github.com/llucasgomes/Desafio-StackX-Web3-React-Ts/blob/main/src/assets/images/tela.png" alt="Imagem de tela do projeto"/>
+  <img src="https://raw.githubusercontent.com/llucasgomes/GrowDev/main/3.MODULO%20-%20Nikel/assets/images/login.png" alt="Imagem de tela do projeto"/>
   
   
 </p>
 <p align="center">
-  <img src="https://github.com/llucasgomes/Desafio-StackX-Web3-React-Ts/blob/main/src/assets/images/tela.png" alt="Imagem de tela do projeto"/>
+  <img src="https://raw.githubusercontent.com/llucasgomes/GrowDev/main/3.MODULO%20-%20Nikel/assets/images/home.png" alt="Imagem de tela do projeto"/>
   
   
 </p>
 <p align="center">
-  <img src="https://github.com/llucasgomes/Desafio-StackX-Web3-React-Ts/blob/main/src/assets/images/tela.png" alt="Imagem de tela do projeto"/>
+  <img src="https://raw.githubusercontent.com/llucasgomes/GrowDev/main/3.MODULO%20-%20Nikel/assets/images/transactions.png" alt="Imagem de tela do projeto"/>
   
   
 </p>
